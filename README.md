@@ -1,4 +1,4 @@
-- 👋 Hello!
+👋 Hello!
 - With 9 years of diverse experience in sales, customer support, social media, and tean management, I am a highly adaptable and versatile
 professional looking to transition into the field of front-end web development.
 - As a junior developer, I may not have extensive experience yet, but what I lack in experience, I make up for in passion and drive to learn.
@@ -6,4 +6,4 @@ professional looking to transition into the field of front-end web development.
 - I am a quick learner and a team player, and I am confident that my unique blend of skills and experience will make me an asset to any development team.
 - I am eager to take on new challenges and ontribute to projects that make a meaningful impact.
 - I am looking for an opportunity to join a company where I can grow and learn as a front-end developer and where I can put my skills to use in real-world.
-- projects
+  
