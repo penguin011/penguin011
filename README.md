@@ -1,5 +1,5 @@
 👋 Hello!
-- With 9 years of diverse experience in sales, customer support, social media, and tean management, I am a highly adaptable and versatile
+- With 7 years of diverse experience in sales, customer support, social media, and tean management, I am a highly adaptable and versatile
 professional looking to transition into the field of front-end web development.
 - As a junior developer, I may not have extensive experience yet, but what I lack in experience, I make up for in passion and drive to learn.
 - I am deeply passionate about creating responsive and beautiful websites using modern JavaScript, and I am constantly seeking to improve my skills and knowledge in this field.
