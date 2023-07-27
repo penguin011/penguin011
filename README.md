@@ -1,9 +1,9 @@
 
-⭐🎖️ 10+ years Experience Full Stack WordPress Developer 🎖️⭐
+# ⭐🎖️ 10+ years Experience Full Stack WordPress Developer 🎖️⭐
 
-Greetings!!!
+## Greetings!!!
 
-Have a look at some of my recent Elementor works:
+**Have a look at some of my recent Elementor works:**
 
 ➽ https://www.scoresense.com
 
@@ -15,7 +15,7 @@ Have a look at some of my recent Elementor works:
 
 ➽ https://www.southhillpark.org.uk
 
-Also, Have a look at some of my recent WordPress works:
+*Also, Have a look at some of my recent WordPress works:*
 
 ➽ https://theworldtravelguy.com/
 
@@ -33,7 +33,7 @@ Also, Have a look at some of my recent WordPress works:
 
 ➽ https://playliststreams.com/
 
-👨💻 My Profile
+## 👨💻 My Profile
 
 👑 TOP Rated, **100% Completion Ratio**, All Positive Feedback
 
