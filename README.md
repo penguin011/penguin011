@@ -3,7 +3,7 @@
 
 ## Greetings!!!
 
-**Have a look at some of my recent Elementor works:**
+***Have a look at some of my recent Elementor works:***
 
 ➽ https://www.scoresense.com
 
@@ -15,7 +15,7 @@
 
 ➽ https://www.southhillpark.org.uk
 
-*Also, Have a look at some of my recent WordPress works:*
+***Also, Have a look at some of my recent WordPress works:***
 
 ➽ https://theworldtravelguy.com/
 
