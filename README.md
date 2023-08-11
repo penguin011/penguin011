@@ -57,6 +57,7 @@
 
 ➽ End deliverable will be mobile responsive, browser compatible, and basic SEO optimized
 
+
 ➽ I handle 1 project at a time so will be dedicated only to your project
 
 ➽ Always believe in long-term working relationship, so even after completion of the project I will be available for maintenance
