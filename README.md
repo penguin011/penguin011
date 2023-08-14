@@ -1,5 +1,5 @@
 
-# ⭐🎖️ 10+ years Experience Full Stack WordPress Developer 🎖️⭐
+# ⭐🎖️ 10+ years Experience Full Stack Developer 🎖️⭐
 
 ## Greetings!!!
 
