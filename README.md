@@ -7,7 +7,6 @@
 | Contact | **<globalapp435@gmail.com>** |
 | Discord | **<https://discord.gg/cwq6k5Xz>** |
 | Skype | **<live:.cid.506216aa93e28f12>** |
-| Slack | **<live:.cid.506216aa93e28f12>** |
 | <img width=300/> |  |
   
 </div>
