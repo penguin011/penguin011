@@ -3,7 +3,7 @@
   
 | <img width=300/>|<img width=800/>|
 | :-----: | :-: |
-| University | [**Waseda University**](https://www.waseda.jp/top/en) |
+| University | [**Nord University**]([https://www.waseda.jp/top/en](https://www.nord.no)) |
 | Contact | **<globalapp435@gmail.com>** |
 | Discord | **<https://discord.gg/cwq6k5Xz>** |
 | Skype | **<live:.cid.506216aa93e28f12>** |
