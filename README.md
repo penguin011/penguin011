@@ -6,7 +6,7 @@
 | University | [**Nord University**](<https://www.nord.no>) |
 | Contact | **<globalapp435@gmail.com>** |
 | Discord | **<https://discord.gg/cwq6k5Xz>** |
-| Skype | **<https://join.skype.com/invite/we6PYSwyxnqo>** |
+| Skype | **<live:.cid.506216aa93e28f12(https://join.skype.com/invite/we6PYSwyxnqo)>** |
 | <img width=300/> |  |
   
 </div>
