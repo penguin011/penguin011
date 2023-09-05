@@ -7,6 +7,7 @@
 | Contact | **<globalapp435@gmail.com>** |
 | Discord | **<https://discord.gg/CebNTjJ8>** |
 | Skype | **[live:.cid.506216aa93e28f12](<https://join.skype.com/invite/we6PYSwyxnqo>)** |
+| Telegram | **(<https://t.me/+lTUClqHQs65iNzY0>)**
 | <img width=300/> |  |
   
 </div>
