@@ -3,7 +3,6 @@
   
 | <img width=300/>|<img width=800/>|
 | :-----: | :-: |
-| University | [**Nord University**](<https://www.nord.no>) |
 | Contact | **<kitty19950123@gmail.com>** |
 | Discord | **<https://discord.gg/CebNTjJ8>** |
 | Skype | **[live:.cid.506216aa93e28f12](<https://join.skype.com/invite/qn46JyyptEGR>)** |
